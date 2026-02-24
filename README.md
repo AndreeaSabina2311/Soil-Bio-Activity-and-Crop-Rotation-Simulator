@@ -9,7 +9,6 @@ To ensure the simulation behaves realistically, the core mechanics, probabilitie
 External Resources
 
     Resource 1: "The effect of crop rotation on the soil biological activity" (2021) by S.A. Zamyain and R.B. Maksimova.
-
     Resource 2: "Influence of climatic factors and fertilization systems on grain crop yields" by Y.N. Ankudovich.
 
 # Documented Insights and Model Mechanics
